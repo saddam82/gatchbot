@@ -80,4 +80,4 @@ async def start(ctx):
     await ctx.send("Select a character to view their build:", view=view)
 
 # تشغيل البوت
-bot.run("MTMxNzYzNDc4MzQyOTUyNTYwNg.G8SgPd.kPVdJ7cKyXaw9DvtEfCOXf3E_i19PAwXsxfjnI")
+bot.run("")
